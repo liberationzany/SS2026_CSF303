@@ -12,8 +12,8 @@ To practice modular programming, I grouped repeated logic into functions and dis
 
 ## Output
 
-![Output](/assets/Screenshot%202026-03-10%20210710.png)
-![Output](/assets/Screenshot%202026-03-10%20210738.png
+![Output](\assets\Screenshot%202026-03-10%20210710.png)
+![Output](/assets/Screenshot%202026-03-10%20210738.png)
 ![Output](/assets/Screenshot%202026-03-10%20210750.png)
 ![Output](/assets/Screenshot%202026-03-10%20210813.png)
 
