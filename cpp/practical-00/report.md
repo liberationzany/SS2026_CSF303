@@ -12,10 +12,11 @@ To practice modular programming, I grouped repeated logic into functions and dis
 
 ## Output
 
-![Output](/assets/Screenshot%202026-03-10%20210710.png)
-![Output](/assets/Screenshot%202026-03-10%20210738.png
-![Output](/assets/Screenshot%202026-03-10%20210750.png)
-![Output](/assets/Screenshot%202026-03-10%20210813.png)
+![Output](./assets/Screenshot%202026-03-10%20210710.png)
+![Output](./assets/Screenshot%202026-03-10%20210738.png)
+![Output](./assets/Screenshot%202026-03-10%20210750.png)
+![Output](./assets/Screenshot%202026-03-10%20210801.png)
+
 
 ## Conclusion
 I implemented all questions in sequence and ensured the program produces the expected outputs for each part. This practical helped me revise core C++ concepts such as functions, loops, arrays, vectors, and classes, and also improved my ability to organize code for readability and reuse.
